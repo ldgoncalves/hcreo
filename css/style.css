@@ -9,7 +9,7 @@ body {
     color: #555;
     position: relative;
     margin:0;
-    padding: 80px 0 0 0;
+    padding: 50px 0 0 0;
 }
 
 /* Text */
@@ -55,13 +55,12 @@ a:visited {
 
 .navbar.navbar-default {
     background-color: #fff;
-    height: 80px;
     border-bottom: 1px solid #ddd;
 }
 
 .navbar-header a.navbar-brand {
     width: 160px;
-    height: 70px;
+    height: 80px;
     background: url(../images/HCREO_Final-01.svg) no-repeat 0 0;
     background-size: contain;
 }
@@ -70,9 +69,10 @@ a:visited {
     display: none;
 }
 
-div#fixed-toggle.collapse.navbar-collapse {
-    margin-top: 10px;
+div#fixed-toggle.collapse.navbar-collapse, .navbar-toggle {
+    margin-top: 20px;
 }
+
 
 #main-menu li a:hover, #main-menu li.active>a {
     color: #4533FF;
@@ -104,5 +104,13 @@ section#home h1 {
     width: 50px;
     height: 50px;
     margin: 10% auto 0;
+
+}
+
+@media screen and (max-width: 768px) {
+    div#fixed-toggle.collapse.navbar-collapse {
+        margin-top: 0;
+    }
+
 
 }
