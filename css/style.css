@@ -154,7 +154,7 @@ section#home h1 {
 section#about {
     width: 100%;
     height: 100%;
-    background: url(../images/education-reform.jpg) no-repeat center center fixed;
+    background: #363636 url(../images/education-reform.jpg) no-repeat center center fixed;
     display: table;
     position: relative;
     margin: 0 auto 50px;
@@ -182,9 +182,7 @@ section#about {
 }
 
 div.about-image {
-    width: 100%;
-    height: 250px;
-    margin: auto;
+    height: 340px;
 }
 
 section#about article {
@@ -264,7 +262,7 @@ footer {
     }
 
     section#about {
-        background: #363636 url(../images/education-reform-768.jpg) no-repeat center bottom;
+        background: #363636 url(../images/education-reform-768.jpg) no-repeat center center;
     }
 }
 
