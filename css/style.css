@@ -182,6 +182,7 @@ section#about {
 }
 
 div.about-image {
+    width:100%;
     height: 340px;
 }
 
@@ -268,10 +269,14 @@ footer {
 
     section#about {
         background: none;
+        height:250px;
     }
 
     div.about-image img {
         display: inline-block;
+        margin:auto;
+        max-width: 768px;
+        height: 250px;
     }
 
 
