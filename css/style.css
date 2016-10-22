@@ -300,10 +300,10 @@ footer {
 
 @media screen and (max-width: 320px) {
 
-    section#home {
-        background-image: url(../images/school-choice-320.jpg)
+    /*section#home {*/
+        /*background-image: url(../images/school-choice-320.jpg)*/
 
-    }
+    /*}*/
 
     section#home h1 {
         margin: 200px 0 2px 0;
