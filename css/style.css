@@ -155,7 +155,6 @@ section#about {
     width: 100%;
     height: 100%;
     background: #363636 url(../images/education-reform.jpg) no-repeat center center fixed;
-    display: table;
     position: relative;
     margin: 0 auto 50px;
     -webkit-background-size: cover;
@@ -184,11 +183,6 @@ section#about {
 div.about-image {
     height: 340px;
 }
-
-div.about-image img{
-    display: none;
-}
-
 
 section#about article {
     margin-top: 30px;
@@ -250,32 +244,10 @@ footer {
 /* Media Queries */
 
 @media screen and (max-width: 768px) {
-    section#home {
-        background: url(../images/school-choice-768.jpg) no-repeat center bottom;
-    }
 
     section#home h1 {
-        margin: 225px 0 10px 0;
+        margin: 405px 0 10px 0;
         line-height: 1.1em;
-    }
-
-    #home a.home-arrow {
-        display: block;
-        width: 50px;
-        height: 50px;
-        margin: 10% auto 0;
-    }
-
-    section#about {
-        background: none;
-        height:250px;
-    }
-
-    div.about-image img {
-        display: inline-block;
-        margin:auto;
-        max-width: 768px;
-        height: 250px;
     }
 
 
@@ -289,10 +261,22 @@ footer {
 }
 
 @media screen and (max-width: 414px) {
+    section#home {
+        background: url(../images/school-choice-768.jpg) no-repeat center bottom;
+    }
 
     section#home h1 {
-        margin: 425px 0 20px 0;
+        margin: 225px 0 20px 0;
     }
+
+    section#about {
+        background: none;
+    }
+    div.about-image {
+        height: 250px;
+        background: url(../images/education-reform-768.jpg) no-repeat center center;
+    }
+
 }
 
 @media screen and (max-width: 412px) {
