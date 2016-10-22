@@ -183,7 +183,7 @@ section#about {
 
 div.about-image {
     width: 100%;
-    height: 340px;
+    height: 250px;
     margin: auto;
 }
 
@@ -264,7 +264,7 @@ footer {
     }
 
     section#about {
-        background: url(../images/education-reform.jpg) no-repeat center bottom;
+        background: url(../images/education-reform-768.jpg) no-repeat center bottom;
     }
 }
 
