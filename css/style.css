@@ -258,6 +258,10 @@ footer {
     div#fixed-toggle.collapse.navbar-collapse {
         margin-top: 0;
     }
+
+    .values-history p {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 414px) {
