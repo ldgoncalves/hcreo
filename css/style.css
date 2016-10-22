@@ -249,7 +249,12 @@ footer {
 @media screen and (max-width: 768px) {
 
     section#home {
-        background: #363636 url(../images/school-choice-768.jpg) no-repeat left center fixed;
+        background-image: url(../images/school-choice-768.jpg);
+        -webkit-background-size: contain;
+        -moz-background-size: contain;
+        -o-background-size: contain;
+        background-size: contain;
+
     }
 
     section#home h1 {
