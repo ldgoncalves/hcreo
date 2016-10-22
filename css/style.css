@@ -263,6 +263,7 @@ footer {
 
     section#about {
         background-image: url(../images/education-reform-768.jpg);
+        background-position: bottom;
     }
 }
 
