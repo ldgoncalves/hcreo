@@ -246,11 +246,6 @@ footer {
 /* Media Queries */
 
 @media screen and (max-width: 768px) {
-    
-    section#home {
-        background: #363636 url(../images/bigstock-Young-children-at-school-stand-69927679.jpg) no-repeat -225px center fixed;
-
-    }
 
     section#home h1 {
         margin: 700px 0 20px 0;
@@ -294,10 +289,6 @@ footer {
 }
 
 @media screen and (max-width: 320px) {
-
-    section#home {
-        background: #363636 url(../images/bigstock-Young-children-at-school-stand-69927679.jpg) no-repeat -275px center fixed;
-    }
 
     section#home h1 {
         margin: 330px 0 2px 0;
