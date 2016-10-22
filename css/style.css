@@ -248,7 +248,9 @@ footer {
 @media screen and (max-width: 768px) {
 
     section#home {
-        background-image: url(../images/school-choice-768.jpg)
+        background-image: url(../images/school-choice-768.jpg);
+        width: 75%;
+        height: 75%;
 
     }
 
