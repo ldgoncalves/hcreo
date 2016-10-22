@@ -119,7 +119,7 @@ div#fixed-toggle.collapse.navbar-collapse, .navbar-toggle {
 section#home {
     width: 100%;
     height: 100%;
-    background: #363636 url(../images/bigstock-Young-children-at-school-stand-69927679.jpg) no-repeat center center fixed;
+    background: #363636 url(../images/school-choice.jpg) no-repeat center center fixed;
     display: table;
     position: relative;
     -webkit-background-size: cover;
@@ -248,15 +248,12 @@ footer {
 @media screen and (max-width: 768px) {
 
     section#home {
-        -webkit-background-size: 100%;
-        -moz-background-size: 100%;
-        -o-background-size: 100%;
-        background-size: 100%;
+        background-image: url(../images/school-choice-768.jpg)
 
     }
 
     section#home h1 {
-        margin: 700px 0 20px 0;
+        margin: 225px 0 10px 0;
         line-height: 1.1em;
     }
 
@@ -276,6 +273,11 @@ footer {
 }
 
 @media screen and (max-width: 414px) {
+
+    section#home {
+        background-image: url(../images/school-choice-414.jpg)
+
+    }
 
     section#home h1 {
         margin: 425px 0 20px 0;
@@ -298,8 +300,13 @@ footer {
 
 @media screen and (max-width: 320px) {
 
+    section#home {
+        background-image: url(../images/school-choice-320.jpg)
+
+    }
+
     section#home h1 {
-        margin: 330px 0 2px 0;
+        margin: 200px 0 2px 0;
     }
 }
 

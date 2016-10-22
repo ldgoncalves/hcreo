@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9f0810f-f1f7-4286-8ff4-35c9bce8d01a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bigstock-Midsection-of-high-school-stud-52233307.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bigstock-Young-children-at-school-stand-69927679.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="HCREO Website.iws" />
@@ -44,8 +46,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="298" column="38" selection-start-line="298" selection-start-column="38" selection-end-line="298" selection-end-column="38" />
+            <state relative-caret-position="591">
+              <caret line="303" column="57" selection-start-line="303" selection-start-column="57" selection-end-line="303" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -78,8 +80,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="396" />
-    <option name="y" value="142" />
+    <option name="x" value="164" />
+    <option name="y" value="85" />
     <option name="width" value="1011" />
     <option name="height" value="867" />
   </component>
@@ -235,15 +237,15 @@
       <option name="presentableId" value="Default" />
       <updated>1476809001969</updated>
       <workItem from="1476809003205" duration="9823000" />
-      <workItem from="1477067660668" duration="15269000" />
+      <workItem from="1477067660668" duration="16390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25092000" />
+    <option name="totallyTimeSpent" value="26213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="396" y="142" width="1011" height="867" extended-state="0" />
+    <frame x="164" y="85" width="1011" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925816" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -332,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="298" column="38" selection-start-line="298" selection-start-column="38" selection-end-line="298" selection-end-column="38" />
+        <state relative-caret-position="591">
+          <caret line="303" column="57" selection-start-line="303" selection-start-column="57" selection-end-line="303" selection-end-column="57" />
           <folding />
         </state>
       </provider>
