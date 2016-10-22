@@ -185,6 +185,11 @@ div.about-image {
     height: 340px;
 }
 
+div.about-image img{
+    display: none;
+}
+
+
 section#about article {
     margin-top: 30px;
 }
@@ -262,9 +267,14 @@ footer {
     }
 
     section#about {
-        background-image: url(../images/education-reform-768.jpg);
-        background-position: bottom;
+        background: none;
     }
+
+    div.about-image img {
+        display: inline-block;
+    }
+
+
 }
 
 @media screen and (max-width: 767px) {
