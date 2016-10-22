@@ -154,7 +154,7 @@ section#home h1 {
 section#about {
     width: 100%;
     height: 100%;
-    background: url(../images/bigstock-Midsection-of-high-school-stud-52233307.jpg) no-repeat center center fixed;
+    background: url(../images/education-reform.jpg) no-repeat center center fixed;
     position: relative;
     margin: 0 auto 50px;
     -webkit-background-size: cover;
@@ -274,10 +274,10 @@ footer {
 
 @media screen and (max-width: 414px) {
 
-    section#home {
-        background-image: url(../images/school-choice-414.jpg)
+    /*section#home {*/
+        /*background-image: url(../images/school-choice-414.jpg)*/
 
-    }
+    /*}*/
 
     section#home h1 {
         margin: 425px 0 20px 0;
