@@ -262,7 +262,7 @@ footer {
     }
 
     section#about {
-        background-attachment: scroll;
+        background-image: url(../images/education-reform-768.jpg);
     }
 }
 
