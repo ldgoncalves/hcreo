@@ -44,8 +44,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="258" column="0" selection-start-line="258" selection-start-column="0" selection-end-line="258" selection-end-column="0" />
+            <state relative-caret-position="523">
+              <caret line="291" column="38" selection-start-line="291" selection-start-column="38" selection-end-line="291" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -78,8 +78,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="164" />
-    <option name="y" value="85" />
+    <option name="x" value="298" />
+    <option name="y" value="23" />
     <option name="width" value="1011" />
     <option name="height" value="867" />
   </component>
@@ -235,15 +235,15 @@
       <option name="presentableId" value="Default" />
       <updated>1476809001969</updated>
       <workItem from="1476809003205" duration="9823000" />
-      <workItem from="1477067660668" duration="17126000" />
+      <workItem from="1477067660668" duration="17819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26949000" />
+    <option name="totallyTimeSpent" value="27642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="85" width="1011" height="867" extended-state="0" />
+    <frame x="298" y="23" width="1011" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925816" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -332,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="258" column="0" selection-start-line="258" selection-start-column="0" selection-end-line="258" selection-end-column="0" />
+        <state relative-caret-position="523">
+          <caret line="291" column="38" selection-start-line="291" selection-start-column="38" selection-end-line="291" selection-end-column="38" />
           <folding />
         </state>
       </provider>
